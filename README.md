@@ -1,4 +1,4 @@
-# Bowel-Movement
+# Bowel Movement
 
 Have fun in this ridiculous interactive physics simulation.  
 Score as many points as possible by interacting with the objects you placed.
